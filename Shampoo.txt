@@ -69,7 +69,7 @@ Avoid:
 9. Isopropyl Alcohol - dry, brittle hair
 10. Propylene Glycol - enables chemicals to penetrate through
 11. Synthetic colours - sensitivity and irritation
-12. Silicones/Dimethicone - long term damage
+12. Silicones/Dimethicone/simethicone - long term damage
 13. Triclosan - carcinogen, toxicity, irritant
 14. Retinyl Palmitate - carcinogen, retinol 
 15. Petroleum - blocks the skin’s pores
@@ -85,3 +85,7 @@ Avoid:
 25. Sodium Chloride - drier and itchy
 26. Polyethylene glycol (PEG) - developmental toxicant
 27. Ketoconazole - causes dandruff 
+28. Cocamidopropyl Betaine CAPB - surfactant, irritation
+29.Methylchloroisothiazolinone CMIT - toxicity
+30. Potassium Sorbate - irritation
+31. Polysorbates - carcinogen
