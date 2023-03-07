@@ -65,7 +65,9 @@ Avoid:
 
 *1,4 Dioxane xynol/ ceteareth/ oleth - carcinogen
 *Alcohol: isopropyl alcohol/ SD alcohol 40/ ethyl alcohol - irritates rosacea-prone skin
+*Aluminium - carcinogen
 *Benzoyl peroxide - extreme dryness
+*Butane/ Isobutane - carcinogen
 *Coal tar dyes - carcinogenic
 *Cocamidopropyl Betaine CAPB - surfactant, irritation
 *DMDM hydratoin - formaldehyde
