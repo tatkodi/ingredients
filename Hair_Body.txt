@@ -63,7 +63,7 @@ Avoid:
 3. DMDM hydantoin - preservatives
 4. Imidazolidinyl - preservatives
 5. Phthalates - fragrances
-6. Ethanolamines: Triethanolamine(TEA)/Diethanolamine(DEA) - carcinogenic
+6. Ethanolamines: Triethanolamine(TEA)/ Diethanolamine(DEA)/ Monoethanolamine(MEA) - carcinogenic
 7. Coal tar dyes - carcinogenic
 8. Formaldehyde - carcinogen
 9. Isopropyl Alcohol - dry, brittle hair
@@ -91,3 +91,6 @@ Avoid:
 31. Polysorbates - carcinogen
 32. Quaternium-15 - formaldehyde
 33. 1,4 Dioxane xynol/ceteareth/oleth - carcinogen
+34. DMDM hydratoin - formaldehyde
+35. Diaziolidinyl Urea (Germall) - formaldehyde
+36. Sodium hydroxymethyl glycinate (suttocide) - formaldehyde
