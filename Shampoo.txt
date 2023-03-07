@@ -89,3 +89,4 @@ Avoid:
 29.Methylchloroisothiazolinone CMIT - toxicity
 30. Potassium Sorbate - irritation
 31. Polysorbates - carcinogen
+32. Quaternium-15 - formaldehyde
