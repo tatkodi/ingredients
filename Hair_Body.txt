@@ -59,11 +59,11 @@ Hair growth:
 Avoid:
 
 1. Sulphate: Ammonium Lauryl Sulfate, Sodium Laureth Sulfate (SLES), Sodium Lauryl Sulfate (SLS) - hair breakage/loss
-2. Parabens - preservatives
+2. Parabens/parahydroxybenzoate - preservatives
 3. DMDM hydantoin - preservatives
 4. Imidazolidinyl - preservatives
 5. Phthalates - fragrances
-6. Triethanolamine (TEA) and Diethanolamine (DEA) - carcinogenic
+6. Ethanolamines: Triethanolamine(TEA)/Diethanolamine(DEA) - carcinogenic
 7. Coal tar dyes - carcinogenic
 8. Formaldehyde - carcinogen
 9. Isopropyl Alcohol - dry, brittle hair
@@ -90,3 +90,4 @@ Avoid:
 30. Potassium Sorbate - irritation
 31. Polysorbates - carcinogen
 32. Quaternium-15 - formaldehyde
+33. 1,4 Dioxane xynol/ceteareth/oleth - carcinogen
