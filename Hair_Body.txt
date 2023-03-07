@@ -51,39 +51,38 @@ Hair growth:
 
 Avoid:
 
-1. Sulphate: Ammonium Lauryl Sulfate, Sodium Laureth Sulfate (SLES), Sodium Lauryl Sulfate (SLS) - hair breakage/loss
-2. Parabens/parahydroxybenzoate - preservatives
-3. DMDM hydantoin - preservatives
-4. Imidazolidinyl - preservatives
-5. Phthalates - fragrances
-6. Ethanolamines: Triethanolamine(TEA)/ Diethanolamine(DEA)/ Monoethanolamine(MEA) - carcinogenic
-7. Coal tar dyes - carcinogenic
-8. Formaldehyde - carcinogen
-9. Isopropyl Alcohol - dry, brittle hair
-10. Propylene Glycol - enables chemicals to penetrate through
-11. Synthetic colours - sensitivity and irritation
-12. Silicones/Dimethicone/simethicone - long term damage
-13. Triclosan - carcinogen, toxicity, irritant
-14. Retinyl Palmitate - carcinogen, retinol 
-15. Petroleum - blocks the skin’s pores
-16. Mineral Oil - dryness and dehydration
-17. Hexachlorophene - irritation
-18. Phthalates - easily absorbed, hazardous 
-19. Triclosan - easily absorbed, unhealthy
-20. Glycolic acid - irritates rosacea-prone skin
-21. Alcohol - irritates rosacea-prone skin
-22. Menthol - irritates rosacea-prone skin
-23. Witch hazel - irritates rosacea-prone skin
-24. Oil - acne
-25. Sodium Chloride - drier and itchy
-26. Polyethylene glycol (PEG) - developmental toxicant
-27. Ketoconazole - causes dandruff 
-28. Cocamidopropyl Betaine CAPB - surfactant, irritation
-29.Methylchloroisothiazolinone CMIT - toxicity
-30. Potassium Sorbate - irritation
-31. Polysorbates - carcinogen
-32. Quaternium-15 - formaldehyde
-33. 1,4 Dioxane xynol/ceteareth/oleth - carcinogen
-34. DMDM hydratoin - formaldehyde
-35. Diaziolidinyl Urea (Germall) - formaldehyde
-36. Sodium hydroxymethyl glycinate (suttocide) - formaldehyde
+*1,4 Dioxane xynol/ceteareth/oleth - carcinogen
+*Alcohol - irritates rosacea-prone skin
+*Coal tar dyes - carcinogenic
+*Cocamidopropyl Betaine CAPB - surfactant, irritation
+*DMDM hydratoin - formaldehyde
+*Diaziolidinyl Urea (Germall) - formaldehyde
+*Ethanolamines: Triethanolamine(TEA)/ Diethanolamine(DEA)/ Monoethanolamine(MEA) - carcinogenic
+*Formaldehyde - carcinogen
+*Glycolic acid - irritates rosacea-prone skin
+*Hexachlorophene - irritation
+*Imidazolidinyl - preservatives
+*Isopropyl Alcohol - dry, brittle hair
+*Ketoconazole - causes dandruff
+*Menthol - irritates rosacea-prone skin
+*Methylchloroisothiazolinone CMIT - toxicity
+*Mineral Oil - dryness and dehydration
+*Oil - acne
+*Parabens/parahydroxybenzoate - preservatives
+*Petroleum - blocks the skin’s pores
+*Phthalates - easily absorbed, hazardous
+*Phthalates - fragrances
+*Polyethylene glycol (PEG) - developmental toxicant
+*Polysorbates - carcinogen
+*Potassium Sorbate - irritation
+*Propylene Glycol - enables chemicals to penetrate through
+*Quaternium-15 - formaldehyde
+*Retinyl Palmitate - carcinogen, retinol
+*Silicones/Dimethicone/simethicone - long term damage
+*Sodium Chloride - drier and itchy
+*Sodium hydroxymethyl glycinate (suttocide) - formaldehyde
+*Sulphates: Ammonium Lauryl Sulfate, Sodium Laureth Sulfate (SLES), Sodium Lauryl Sulfate (SLS) - hair breakage/loss
+*Synthetic colours - sensitivity and irritation
+*Triclosan - carcinogen, toxicity, irritant
+*Triclosan - easily absorbed, unhealthy
+*Witch hazel - irritates rosacea-prone skin
